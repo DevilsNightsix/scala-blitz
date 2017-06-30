@@ -1,0 +1,11 @@
+.ensime
+.ensime_cache
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/.env
+/RUNNING_PID
